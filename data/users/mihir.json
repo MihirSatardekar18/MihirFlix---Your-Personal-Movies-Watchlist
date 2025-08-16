@@ -1,0 +1,34 @@
+{
+  "password": "123456",
+  "watched_ids": [
+    "mr010",
+    "mr009",
+    "1458",
+    "jp003"
+  ],
+  "watchlist_ids": [
+    "mr008",
+    "mr006",
+    "ta003",
+    "hi_mahavatar_narsimha_2025",
+    "hi_hanuman_s1_2021",
+    "hi_hanuman_s2_2021",
+    "hi_hanuman_s3_2024",
+    "hi_hanuman_s4_2024",
+    "hi_hanuman_s5_2024",
+    "hi_hanuman_s6_2025",
+    "ml002"
+  ],
+  "watched_history": [
+    {
+      "id": "jp003",
+      "title": "Cloud",
+      "year": 2024,
+      "genre": "Horror",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Cloud.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=6g3RRS1P6DA",
+      "timestamp": 1755169745.3989666
+    }
+  ]
+}

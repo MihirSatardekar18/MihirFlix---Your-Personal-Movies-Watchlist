@@ -1,0 +1,45 @@
+{
+  "mihir": {
+    "watched": [
+      "Spiderman"
+    ],
+    "ratings": {},
+    "watchlist": []
+  },
+  "meta": {
+    "version": 3,
+    "last_healed": "2025-08-12T18:52:21Z"
+  },
+  "users": {
+    "mihir": {
+      "username": "mihir",
+      "created_at": "2025-08-12T18:31:13Z",
+      "last_login": "2025-08-12T18:52:21Z",
+      "language": "en",
+      "theme": "system",
+      "watched_ids": [],
+      "watchlist_ids": [],
+      "favorites_ids": [],
+      "ratings": {},
+      "custom_lists": {},
+      "profile": {
+        "display_name": "mihir",
+        "avatar": null,
+        "accent_color": "#7C3AED"
+      },
+      "settings": {
+        "animations": true,
+        "reduced_motion": false,
+        "multilingual": true
+      }
+    }
+  },
+  "auth": {
+    "mihir": {
+      "salt": "a40d6da59a35bc9378ce96b6f6f7685a",
+      "hash": "ee75a8aa16a0ae08595135ba05aa85d794e58030e2d5ba86743e882bdf7582c9",
+      "rounds": 260000,
+      "created_at": "2025-08-12T18:31:13Z"
+    }
+  }
+}

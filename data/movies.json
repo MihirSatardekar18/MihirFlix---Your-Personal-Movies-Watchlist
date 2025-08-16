@@ -1,0 +1,418 @@
+{
+  "movies": [
+    {
+      "id": "jp001",
+      "title": "Rental Family",
+      "year": 2025,
+      "genre": "Drama",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Rental Family.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=n0pqP6ClcE8"
+    },
+    {
+      "id": "jp002",
+      "title": "Perfect Days",
+      "year": 2023,
+      "genre": "Drama",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Perfect Days.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=QzZBbX5A1FA"
+    },
+    {
+      "id": "jp003",
+      "title": "Cloud",
+      "year": 2024,
+      "genre": "Horror",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Cloud.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=6g3RRS1P6DA"
+    },
+    {
+      "id": "en001",
+      "title": "Predator: Badlands",
+      "year": 2025,
+      "genre": "Action",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Predator Badlands.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=8AQZjx1wMBc"
+    },
+    {
+      "id": "en002",
+      "title": "Godzilla x Kong: Supernova",
+      "year": 2027,
+      "genre": "Sci-Fi",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Godzilla x Kong Supernova.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=8AQZjx1wMBc&t=74"
+    },
+    {
+      "id": "en003",
+      "title": "Mission Impossible: The Final Reckoning",
+      "year": 2025,
+      "genre": "Action",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Mission Impossible The Final Reckoning.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=NOhDyUmT9z0"
+    },
+    {
+      "id": "mr001",
+      "title": "Jarann",
+      "year": 2025,
+      "genre": "Drama",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Jarann.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=-UcXWWB4op0"
+    },
+    {
+      "id": "mr002",
+      "title": "Zapuk Zupuk",
+      "year": 2025,
+      "genre": "Comedy",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Zapuk Zupuk.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=uuuQmOFanQA"
+    },
+    {
+      "id": "mr003",
+      "title": "April May 99",
+      "year": 2025,
+      "genre": "Romance",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\April May 99.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=_Z3W36QT1G0"
+    },
+    {
+      "id": "hi001",
+      "title": "Maa",
+      "year": 2025,
+      "genre": "Drama",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Maa.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=lVvMbXiJjko"
+    },
+    {
+      "id": "hi002",
+      "title": "Deva",
+      "year": 2025,
+      "genre": "Action",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Deva.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=3x77q40hATw"
+    },
+    {
+      "id": "hi003",
+      "title": "Ground Zero",
+      "year": 2025,
+      "genre": "Thriller",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Ground Zero.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=oAdc62oGzW8"
+    },
+    {
+      "id": "fr001",
+      "title": "The Taste of Things",
+      "year": 2023,
+      "genre": "Romance",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\The Taste of Things.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=cKKCGtoIOVY"
+    },
+    {
+      "id": "fr002",
+      "title": "French Girl",
+      "year": 2024,
+      "genre": "Comedy",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\French Girl.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=3i6de-RF3uA"
+    },
+    {
+      "id": "fr003",
+      "title": "The Count of Monte-Cristo",
+      "year": 2024,
+      "genre": "Adventure",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\The Count of Monte-Cristo.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=8Q6y1waxlTY"
+    },
+    {
+      "id": "du001",
+      "title": "Dutch",
+      "year": 2020,
+      "genre": "Crime",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Dutch.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=HOPF-7gvBtY"
+    },
+    {
+      "id": "du002",
+      "title": "Dutch III",
+      "year": 2025,
+      "genre": "Crime",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Dutch III.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=c3pVRin9ON8"
+    },
+    {
+      "id": "du003",
+      "title": "Holland",
+      "year": 2025,
+      "genre": "Drama",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Holland.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=IJm3LHoqdA4"
+    },
+    {
+      "id": "ru001",
+      "title": "Russian Raid",
+      "year": 2020,
+      "genre": "Action",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Russian Raid.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=x3hYnIqxFaM"
+    },
+    {
+      "id": "ru002",
+      "title": "The Pilot",
+      "year": 2022,
+      "genre": "War",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\The Pilot.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=n6PK_3Z8IqY"
+    },
+    {
+      "id": "ru003",
+      "title": "Compartment No. 6",
+      "year": 2022,
+      "genre": "Drama",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Compartment No. 6.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=itL_GpBalA4"
+    },
+    {
+      "id": "ml001",
+      "title": "Padakkalam",
+      "year": 2025,
+      "genre": "Drama",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Padakkalam.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=ubVjt3eIDqA"
+    },
+    {
+      "id": "ml002",
+      "title": "Bazooka",
+      "year": 2025,
+      "genre": "Action",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Bazooka.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=LkKChCQnjB4"
+    },
+    {
+      "id": "ml003",
+      "title": "Lovely",
+      "year": 2025,
+      "genre": "Romance",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Lovely.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=fRv-C8IvmI0"
+    },
+    {
+      "id": "ur001",
+      "title": "Love Guru",
+      "year": 2025,
+      "genre": "Romance",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Love Guru.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=jTndSSde6Z8"
+    },
+    {
+      "id": "ur002",
+      "title": "Umro Ayyar: A New Beginning",
+      "year": 2024,
+      "genre": "Fantasy",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Umro Ayyar A New Beginning.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=UwZBNbxBgM0"
+    },
+    {
+      "id": "ur003",
+      "title": "Qulfee",
+      "year": 2025,
+      "genre": "Drama",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Qulfee.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=V6eBguL1uSA"
+    },
+    {
+      "id": "ta001",
+      "title": "Maargan",
+      "year": 2025,
+      "genre": "Thriller",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Maargan.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=S27THSM8yd4"
+    },
+    {
+      "id": "ta002",
+      "title": "Thug Life",
+      "year": 2025,
+      "genre": "Action",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Thug Life.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=96kAbj3IF3k"
+    },
+    {
+      "id": "ta003",
+      "title": "Kuberaa",
+      "year": 2025,
+      "genre": "Drama",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Kuberaa.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=Eyl4sQFkQiM"
+    },
+    {
+      "id": "hi_chhaava_2025",
+      "title": "Chhaava",
+      "year": 2025,
+      "genre": "Historical",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Chhaava.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=77vRyWNqZjM"
+    },
+    {
+      "id": "hi_hanuman_s1_2021",
+      "title": "The Legend of Hanuman S1",
+      "year": 2021,
+      "genre": "Mythology",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\The Legend of Hanuman S1.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=Af49v6rUXmQ"
+    },
+    {
+      "id": "hi_hanuman_s2_2021",
+      "title": "The Legend of Hanuman S2",
+      "year": 2021,
+      "genre": "Mythology",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\The Legend of Hanuman S2.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=9E6U-n3vR2k"
+    },
+    {
+      "id": "hi_hanuman_s3_2024",
+      "title": "The Legend of Hanuman S3",
+      "year": 2024,
+      "genre": "Mythology",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\The Legend of Hanuman S3.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=NUSRDu9Q91U"
+    },
+    {
+      "id": "hi_hanuman_s4_2024",
+      "title": "The Legend of Hanuman S4",
+      "year": 2024,
+      "genre": "Mythology",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\The Legend of Hanuman S4.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=ZG1hrxC7zyE"
+    },
+    {
+      "id": "hi_hanuman_s5_2024",
+      "title": "The Legend of Hanuman S5",
+      "year": 2024,
+      "genre": "Mythology",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\The Legend of Hanuman S5.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=6cDok313kuE"
+    },
+    {
+      "id": "hi_hanuman_s6_2025",
+      "title": "The Legend of Hanuman S6",
+      "year": 2025,
+      "genre": "Mythology",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\The Legend of Hanuman S6.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=PHskEBIDy2I"
+    },
+    {
+      "id": "mr_sher_shivraj_2022",
+      "title": "Sher Shivraj",
+      "year": 2022,
+      "genre": "Historical",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Sher Shivraj.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=MJUxhDj9fjw"
+    },
+    {
+      "id": "mr_pawankhind_2022",
+      "title": "Pawankhind",
+      "year": 2022,
+      "genre": "Historical",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Pawankhind.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=049jrI-TN6Q"
+    },
+    {
+      "id": "hi_tanhaji_2020",
+      "title": "Tanhaji: The Unsung Warrior",
+      "year": 2020,
+      "genre": "Historical",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Tanhaji The Unsung Warrior.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=cffAGIYTEHU"
+    },
+    {
+      "id": "mr_har_har_mahadev_2022",
+      "title": "Har Har Mahadev",
+      "year": 2022,
+      "genre": "Historical",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Har Har Mahadev.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=ACF6_JFgZm8"
+    },
+    {
+      "id": "mr_farzand_2018",
+      "title": "Farzand",
+      "year": 2018,
+      "genre": "Historical",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Farzand.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=n5tcTFTUDH8"
+    },
+    {
+      "id": "mr_fatteshikast_2019",
+      "title": "Fatteshikast",
+      "year": 2019,
+      "genre": "Historical",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Fatteshikast.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=1iuJKP9hPzY"
+    },
+    {
+      "id": "hi_mahavatar_narsimha_2025",
+      "title": "Mahavatar: Narsimha",
+      "year": 2025,
+      "genre": "Mythology",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Mahavatar Narsimha.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=p7eE_dn9u4k"
+    },
+    {
+      "id": "mr_mi_shivajiraje_bhosale_boltoy_2009",
+      "title": "Mi Shivajiraje Bhosale Boltoy",
+      "year": 2009,
+      "genre": "Drama",
+      "watched": false,
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\Mi Shivajiraje Bhosale Boltoy.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=Q5627Vk_WhI"
+    },
+    {
+      "id": "mv_1755172302",
+      "title": "Avatar: The Way of Water",
+      "year": "2022",
+      "genre": "Sci-Fi",
+      "poster_path": "C:\\Users\\lenovo\\Desktop\\MihirFlix Movies Watchlist\\assets\\posters\\avatar.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=1f65r8BUZ5I",
+      "rating": 0.0
+    }
+  ]
+}
